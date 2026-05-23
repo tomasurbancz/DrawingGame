@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DrawingGame.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dae86d0c9be44bd7f64f64cac34a64f4a3a0ce10")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+687bce91ddd8c193ac7a7ae91a69a5f153c891fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("DrawingGame.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DrawingGame.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
