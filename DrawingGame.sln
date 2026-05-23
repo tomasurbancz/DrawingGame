@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawingGame.Backend", "DrawingGame.Backend\DrawingGame.Backend.csproj", "{BC39AFEE-DD00-42C1-A265-02A6723BECA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawingGame.Data", "DrawingGame.Data\DrawingGame.Data.csproj", "{87DD3703-3A41-4935-8B62-1C0671369FA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawingGame.Window", "DrawingGame.Window\DrawingGame.Window.csproj", "{23247F65-5CF6-48FE-BEF3-B39CA2C94CAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC39AFEE-DD00-42C1-A265-02A6723BECA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC39AFEE-DD00-42C1-A265-02A6723BECA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC39AFEE-DD00-42C1-A265-02A6723BECA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC39AFEE-DD00-42C1-A265-02A6723BECA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87DD3703-3A41-4935-8B62-1C0671369FA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87DD3703-3A41-4935-8B62-1C0671369FA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87DD3703-3A41-4935-8B62-1C0671369FA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87DD3703-3A41-4935-8B62-1C0671369FA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23247F65-5CF6-48FE-BEF3-B39CA2C94CAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23247F65-5CF6-48FE-BEF3-B39CA2C94CAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23247F65-5CF6-48FE-BEF3-B39CA2C94CAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23247F65-5CF6-48FE-BEF3-B39CA2C94CAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+@DrawingGame.Backend_HostAddress = http://localhost:5159
+
+GET {{DrawingGame.Backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
